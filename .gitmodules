@@ -6,7 +6,8 @@
 	url = https://github.com/enjoy-digital/litevideo
 [submodule "lib/litex-boards"]
 	path = lib/litex-boards
-	url = https://github.com/litex-hub/litex-boards.git
+	url = https://github.com/trabucayre/litex-boards.git
+	branch = axu2cga_software
 [submodule "lib/migen"]
 	path = lib/migen
 	url = https://github.com/m-labs/migen
